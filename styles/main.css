@@ -1,0 +1,33 @@
+/*
+* {
+    background-color: rgba(0,255,0,0.1);
+}
+*/
+
+body {
+	background-image: url(../images/cheap_diagonal_fabric.png);
+	background-repeat: repeat;
+	font-family: Lato, sans-serif;
+}
+
+.container {
+	text-align: center;
+	margin-top: 20px;
+}
+
+hr {
+	width: 500px;
+	border-bottom: 1px solid black;
+}
+
+.quote-box {
+	font-size: 1.5em;
+	padding: 10px;
+	margin-bottom: 100px;
+	height: 100px;
+}
+
+#desc {
+	width: 300px;
+	margin: 0 auto;
+}
